@@ -1,2 +1,2 @@
 # Merva
-Qt based vector editor. 
+A vector editor. 
