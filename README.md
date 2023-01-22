@@ -1,2 +1,2 @@
 # Merva
-Qt based diagramming. 
+Qt based vector editor. 
